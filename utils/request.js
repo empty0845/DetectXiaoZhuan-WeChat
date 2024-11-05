@@ -1,5 +1,4 @@
-// export const baseUrl = 'http://gz.nacldragon.top:38234'
-export const baseUrl = 'http://10.37.201.185:5000'
+export const baseUrl = 'http://192.168.1.1:5000' // 你的ipv4地址加端口号
 
 export const configRequest = async () => {
   return new Promise((resolve, reject) => {
