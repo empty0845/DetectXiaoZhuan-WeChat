@@ -4,8 +4,8 @@ This repository contains the front-end code for the **DetectXiaoZhuan** project,
 
 ## Related Repositories
 
-- [Backend](https://github.com/empty0845/DetectXiaoZhuan-Backend.git): The backend API that powers the front-end, providing necessary data and processing.
-- [Dataset](https://github.com/empty0845/DetectXiaoZhuan-Dataset.git): The dataset used by both the front-end and back-end for model training and inference.
+- [Backend](https://github.com/empty0845/DetectXiaoZhuan-Backend.git): The backend service that runs the pre-trained model, providing data and results to the front-end.
+- [Dataset](https://github.com/empty0845/DetectXiaoZhuan-Dataset.git): The dataset used for training the model, although the model is already pre-trained and available for use in the backend.
 
 ## **Setup Instructions**
 
