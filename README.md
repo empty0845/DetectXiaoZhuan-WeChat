@@ -2,6 +2,11 @@
 
 This repository contains the front-end code for the **DetectXiaoZhuan** project, which is a WeChat Mini Program used to detect XiaoZhuan (small seal script) characters.
 
+## Related Repositories
+
+- [Backend](https://github.com/empty0845/DetectXiaoZhuan-Backend.git): The backend API that powers the front-end, providing necessary data and processing.
+- [Dataset](https://github.com/empty0845/DetectXiaoZhuan-Dataset.git): The dataset used by both the front-end and back-end for model training and inference.
+
 ## **Setup Instructions**
 
 ### 1. Clone the repository
