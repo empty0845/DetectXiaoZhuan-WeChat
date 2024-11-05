@@ -1,0 +1,52 @@
+<svg width="86" height="86" viewBox="0 0 86 86" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景渐变更改为淡灰色到白色 -->
+  <g filter="url(#filter0_d_1_454)">
+    <circle cx="43" cy="43" r="30" fill="url(#paint0_linear_1_454)" />
+  </g>
+  <!-- 简洁的照相机logo -->
+  <g>
+    <!-- 相机主体 -->
+    <rect x="28" y="32" width="30" height="20" rx="3" fill="black" opacity="0.7" />
+    <!-- 镜头 -->
+    <circle cx="43" cy="42" r="6" fill="#FFFFFF" />
+    <circle cx="43" cy="42" r="4" fill="#000000" />
+    <!-- 闪光灯 -->
+    <rect x="52" y="34" width="4" height="2" fill="#FFFFFF" />
+  </g>
+  <!-- 四个角的红色渐变修饰框 -->
+  <g filter="url(#filter2_i_1_454)">
+    <path d="M6.111 6.111V27.5965C6.111 29.4395 4.8985 30.652 3.0555 30.652C1.2125 30.652 0 29.4395 0 27.5965V3.0555C0 1.2125 1.2125 0 3.0555 0H27.645C29.488 0 30.7005 1.2125 30.7005 3.0555C30.7005 4.8985 29.4395 6.111 27.5965 6.111H6.111Z" fill="url(#paint3_linear_1_454)"/>
+  </g>
+  <g filter="url(#filter3_i_1_454)">
+    <path d="M6.111 79.831H27.5965C29.4395 79.831 30.652 81.0435 30.652 82.8865C30.652 84.7295 29.4395 85.942 27.5965 85.942H3.0555C1.2125 85.942 0 84.7295 0 82.8865V58.297C0 56.454 1.2125 55.2415 3.0555 55.2415C4.8985 55.2415 6.111 56.454 6.111 58.297V79.831Z" fill="url(#paint4_linear_1_454)"/>
+  </g>
+  <g filter="url(#filter4_i_1_454)">
+    <path d="M79.8301 6.111H58.3446C56.5016 6.111 55.2891 4.8985 55.2891 3.0555C55.2891 1.2125 56.5016 0 58.3446 0H82.9341C84.7771 0 85.9896 1.2125 85.9896 3.0555V27.645C85.9896 29.488 84.7771 30.7005 82.9341 30.7005C81.0911 30.7005 79.8786 29.488 79.8786 27.645V6.111H79.8301Z" fill="url(#paint5_linear_1_454)"/>
+  </g>
+  <g filter="url(#filter5_i_1_454)">
+    <path d="M79.8297 79.831V58.3455C79.8297 56.5025 81.0422 55.29 82.8852 55.29C84.7282 55.29 85.9407 56.5025 85.9407 58.3455V82.935C85.9407 84.778 84.7282 85.9905 82.8852 85.9905H58.2957C56.4527 85.9905 55.2402 84.778 55.2402 82.935C55.2402 81.092 56.4527 79.8795 58.2957 79.8795H79.8297V79.831Z" fill="url(#paint6_linear_1_454)"/>
+  </g>
+  <!-- 定义淡灰色和红色渐变 -->
+  <defs>
+    <linearGradient id="paint0_linear_1_454" x1="43" y1="13" x2="43" y2="73" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D3D3D3"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear_1_454" x1="15.3502" y1="0" x2="15.3502" y2="30.652" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF0000"/>
+      <stop offset="1" stop-color="#660000" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="paint4_linear_1_454" x1="15.326" y1="55.2415" x2="15.326" y2="85.942" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF0000"/>
+      <stop offset="1" stop-color="#660000" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="paint5_linear_1_454" x1="70.6393" y1="0" x2="70.6393" y2="30.7005" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF0000"/>
+      <stop offset="1" stop-color="#660000" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="paint6_linear_1_454" x1="70.5905" y1="55.29" x2="70.5905" y2="85.9905" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF0000"/>
+      <stop offset="1" stop-color="#660000" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+</svg>

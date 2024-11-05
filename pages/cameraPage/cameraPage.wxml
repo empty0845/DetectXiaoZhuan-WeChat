@@ -1,0 +1,22 @@
+<BackButton needTopBlock="{{false}}" bind:back="back"></BackButton>
+<camera wx:if="{{isShow}}" device-position="{{devicePosition}}" flash="{{flush?'torch':'off'}}" binderror="error" class="camera"></camera>
+<view class="camera" wx:if="{{!isShow}}">
+  <image style="height: 100%;width: 100%;" src="{{tempImagePath}}"></image>
+</view>
+<view class="camera-opration">
+  <view class="camera-opration-item">
+    <view class="camera-opration-item-image">
+      <image src="{{flush?'../../image/shanguangdeng-guan.svg':'../../image/shanguangdeng-kai.svg'}}" mode="heightFix" bindtap="changeFlush"></image>
+    </view>
+  </view>
+  <view class="camera-opration-item">
+    <view class="camera-opration-item-take">
+      <view bindtap="takePhoto"></view>
+    </view>
+  </view>
+  <view class="camera-opration-item">
+    <view class="camera-opration-item-image">
+      <image src="../../image/xiangjifanzhuan.svg" mode="heightFix" bindtap="changeDevicePosition"></image>
+    </view>
+  </view>
+</view>

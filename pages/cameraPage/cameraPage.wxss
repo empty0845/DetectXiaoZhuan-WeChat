@@ -1,0 +1,73 @@
+.camera {
+  width: 100vw;
+  height: 80vh;
+}
+
+.camera-opration {
+  width: 90vw;
+  height: 20vh;
+  background-color: black;
+  display: flex;
+  padding: 0 5vw;
+}
+.camera-opration-item{
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  height: 120rpx;
+  margin-top: 40rpx;
+  position: relative;
+}
+.camera-opration-item-take{
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 50%;
+  background-color: black;
+  border: 1px solid white;
+  box-sizing: border-box;
+}
+.camera-opration-item-take view{
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 50%;
+  background-color: white;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+
+}
+
+.camera-opration-item-image{
+  width: 35rpx;
+  height: 35rpx;
+}
+
+.camera-opration-item-image image{
+  width: 35rpx;
+  height: 35rpx;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+
+}
+
+.camera-back{
+  width: 60rpx;
+  height: 60rpx;
+  background-color: red;
+  position: absolute;
+  border-radius: 50%;
+  z-index: 1000;
+}
+
+.camera-back image{
+  width: 20rpx;
+  height: 20rpx;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+
+}

@@ -1,0 +1,37 @@
+/* 增加上方的边距，进一步向下移动 */
+.archi-casca {
+  margin-top: 50rpx; /* 将16rpx调整为50rpx，使整体位置更靠下 */
+}
+
+/* 水平居中 */
+.archi-casca-name {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 430rpx;
+  margin-bottom: 10rpx; /* 为标题增加一个底部边距，以控制与描述的间距 */
+}
+
+/* 进一步微调下方文本位置 */
+.archi-desc {
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+  font-family: KaiTi, serif;
+  background: linear-gradient(90deg, #B22222 15%, #FF4500 85%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 5rpx; /* 调整描述文字的顶部边距，将20px减少至5rpx */
+}
+
+
+/* .archi-desc {
+  width: 100%;
+  text-align: center;
+  font-size: 18rpx;
+  background: linear-gradient(90deg, #754ABC 15.08%, #009FE8 80.82%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+} */

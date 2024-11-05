@@ -1,0 +1,23 @@
+
+<view>
+  <BackButton style="opacity:0;height: 0;"></BackButton>
+  <Background>
+    <view>
+      <Logo></Logo>
+      <CityImpress></CityImpress>
+      <view class="archi-image">
+        <image src="{{imageUrl?baseUrl + imageUrl:''}}" mode="widthFix"></image>
+      </view>
+      <view class="qrcode">
+        <image src="../../image/QRcode2.svg" mode="widthFix" bindtap="enterPhotoPage"></image>
+      </view>
+      <view class="qrcode-tips">拍照AI识别小篆</view>
+      <Name style="width: 240rpx;height: 160rpx;"></Name>
+      <!-- <view class="know-more">
+        <text>关于我们·了解更多 </text>
+        <image src="../../image/rightArrow.svg"></image>
+      </view>
+      <view class="copyright">2024©版权所有</view> -->
+    </view>
+  </Background>
+</view>

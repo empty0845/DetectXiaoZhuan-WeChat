@@ -1,0 +1,13 @@
+<svg width="250" height="50" viewBox="0 0 250 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 黑灰色渐变定义 -->
+  <defs>
+    <linearGradient id="textGradient" x1="0" y1="0" x2="250" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="80%" stop-color="#555555"/>
+    </linearGradient>
+  </defs>
+  <!-- 文字居中，字体增大 -->
+  <text x="50%" y="35" font-family="KaiTi, serif" font-size="36" fill="url(#textGradient)" text-anchor="middle">
+    全字庫
+  </text>
+</svg>

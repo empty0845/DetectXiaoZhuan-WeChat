@@ -1,0 +1,67 @@
+.archi-image {
+  display: flex;
+  margin-top: 30rpx;
+  padding: 0 82rpx;
+  display: flex;
+  justify-content: center;
+}
+
+.archi-image image {}
+
+.qrcode {
+  display: flex;
+  margin-top: 30rpx;
+  justify-content: center;
+}
+
+.qrcode image {
+  width: 172rpx;
+  height: 172rpx;
+}
+
+/* .qrcode-tips {
+  width: 100%;
+  text-align: center;
+  font-size: 30rpx;
+  margin-top: 10rpx;
+  background: linear-gradient(180deg, #00F 0%, rgba(2, 125, 215, 0.00) 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+} */
+.qrcode-tips {
+  width: 100%;
+  text-align: center;
+  font-size: 30rpx;
+  margin-top: 10rpx;
+  font-family: "SimSun", Songti, serif; /* 设置为宋体或相似的中文字体 */
+  background: linear-gradient(180deg, #000 0%, rgba(0, 0, 0, 0.3) 100%); /* 从深黑到浅黑渐变 */
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; /* 背景剪裁成文字填充色 */
+}
+
+
+.know-more {
+  width: 100%;
+  text-align: center;
+  font-size: 18rpx;
+  background: linear-gradient(90deg, #754ABC 15.08%, #009FE8 80.82%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 16rpx;
+
+}
+
+.know-more image {
+  height: 32rpx;
+  width: 32rpx;
+  vertical-align: middle;
+}
+
+.copyright {
+  text-align: center;
+  color: #979797;
+  font-size:16rpx;
+}

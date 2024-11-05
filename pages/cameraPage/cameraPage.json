@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    
+    "BackButton": "/components/backButton/backButton"
+  }
+}

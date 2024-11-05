@@ -1,0 +1,5 @@
+<view class="impress">
+  <view class="impress-title">说文解字·</view>
+  <image src="../../image/AI2.svg" class="background-image"></image>
+  <view class="impress-title">识别</view>
+</view>
