@@ -41,7 +41,3 @@ Before running the front-end Mini Program, ensure that the backend is successful
 ## **License**
 
 This project is licensed under the MIT License. See the full details at [MIT License](https://opensource.org/licenses/MIT).
-
-## **Developers**
-
-- [empty0845](https://github.com/empty0845)
