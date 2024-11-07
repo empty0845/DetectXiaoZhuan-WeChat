@@ -5,7 +5,7 @@ This project is a modification based on the “Famous City Guangzhou - AI Explor
 This repository contains the front-end code for the **DetectXiaoZhuan** project, which is a WeChat Mini Program used to detect XiaoZhuan (small seal script) characters.
 
 ## Alternative Version Branch
-A different version is available in the branch **`feature/video-version`**, which allows videos to be displayed on the frontend in place of images.
+A different version is available in the branch **`feature/video-version`**, which allows videos to be displayed on the frontend.
 
 ### How to Switch to the Video Version
 1. Ensure you are on the **`feature/video-version`** branch in this repository.
