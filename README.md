@@ -3,12 +3,12 @@
 This repository contains the front-end code for the **DetectXiaoZhuan** project, which is a WeChat Mini Program used to detect XiaoZhuan (small seal script) characters.
 
 ## Alternative Version Branch
-A different version is available in the branch **`feature/replace-image-with-video`**, which allows videos to be displayed on the frontend in place of images.
+A different version is available in the branch **`feature/video-version`**, which allows videos to be displayed on the frontend in place of images.
 
 ### How to Switch to the Video Version
-
-1. Ensure the backend is using the **`feature/video-version`** branch from the corresponding backend repository.
-2. Follow the steps outlined in the `README.md` file.
+1. Ensure you are on the **`feature/video-version`** branch in this repository.
+2. Ensure the backend is using the **`feature/video-version`** branch from the corresponding backend repository.
+3. Follow the steps outlined in the `README.md` file.
 
 ## Related Repositories
 
