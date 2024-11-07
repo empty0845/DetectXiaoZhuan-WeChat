@@ -1,5 +1,7 @@
 # DetectXiaoZhuan-WeChat
 
+This project is a modification based on the “Famous City Guangzhou - AI Exploration and Object Recognition” project, originally developed by the “Object Recognition Exploration” development team. While leveraging the foundation of the original project, this project (DetectXiaoZhuan) adapts the codebase to achieve a different functionality, specifically for the detection of XiaoZhuan (small seal script) characters.
+
 This repository contains the front-end code for the **DetectXiaoZhuan** project, which is a WeChat Mini Program used to detect XiaoZhuan (small seal script) characters.
 
 ## Alternative Version Branch
