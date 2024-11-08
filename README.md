@@ -51,3 +51,12 @@ Before running the front-end Mini Program, ensure that the backend is successful
 ## **License**
 
 This project is licensed under the MIT License. See the full details at [MIT License](https://opensource.org/licenses/MIT).
+
+## Contributors
+
+This project is maintained and contributed to by the following individuals:
+
+- [empty0845](https://github.com/empty0845)
+- [SparseMatric-1](https://github.com/SparseMatric-1)
+- [Xi2aoyu24](https://github.com/Xi2aoyu24)
+- [Eloisseee](https://github.com/Eloisseee)
