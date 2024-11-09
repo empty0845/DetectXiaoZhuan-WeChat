@@ -9,7 +9,8 @@
   </view>
   <view class="article-main">
     <view class=" article-image">
-    <image src="{{article.image_path?baseUrl+article.image_path:''}}" mode="widthFix"></image>
+      <image src="{{article.image_path?baseUrl+article.image_path:''}}" mode="widthFix"></image>
+      <video src="{{article.video_path}}" binderror="videoErrorCallback"></video>
   </view>
   <view class=" article-detail-title">
     <view class=" article-block"></view>
