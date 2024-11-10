@@ -1,8 +1,6 @@
-以下是你的项目 `README_zh.md` 的中文版本：
-
----
-
 # DetectXiaoZhuan-WeChat
+
+[English README available here](README.md)
 
 本项目基于“名城广州-AI探趣”项目进行修改，原项目由“识物探趣”开发小组创建。在利用原项目的基础上，本项目（DetectXiaoZhuan）对代码库进行了调整，以实现不同的功能，专用于检测小篆字符。
 
@@ -11,7 +9,7 @@
 ## 相关仓库
 
 - [后端服务](https://github.com/empty0845/DetectXiaoZhuan-Backend.git)：用于运行预训练模型的后端服务，为前端提供数据和结果。
-- [数据集](https://github.com/empty0845/DetectXiaoZhuan-Dataset.git)：该仓库提供了用于训练模型的数据集。尽管项目中已包含预训练模型供后端直接使用，数据集仍然公开提供，供有意重新训练或微调模型的用户使用。
+- [数据集](https://github.com/empty0845/DetectXiaoZhuan-Dataset.git)：该仓库提供了用于训练模型的数据集。尽管项目中已包含预训练模型供后端直接使用，我们依然提供数据集，供有意重新训练或微调模型的用户使用。
 
 ## **安装说明**
 
@@ -56,5 +54,3 @@ export const baseUrl = 'http://192.168.1.1:5000'
 - [SparseMatric-1](https://github.com/SparseMatric-1)
 - [Xi2aoyu24](https://github.com/Xi2aoyu24)
 - [Eloisseee](https://github.com/Eloisseee)
-
-[查看英文版 README](README.md)
